@@ -148,6 +148,11 @@ font-family: 'Noto Sans TC', sans-serif;
 	font-size: 100px;
 }
 
+h4.counter {
+    font-size: 35px;
+}
+
+
 h2 {
   font-family: 'Noto Sans TC', sans-serif;
   font-size: 30px;
