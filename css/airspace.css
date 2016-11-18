@@ -15,6 +15,14 @@
 	Common Css
 --*/
 
+
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+
 .button_x {
   display: inline-block;
   border-radius: 4px;
