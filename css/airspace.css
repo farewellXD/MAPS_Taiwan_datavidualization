@@ -17,6 +17,7 @@
 
 section.background{
  background-color: #f4f4f4;
+ z-index:-1;
 }
 
 h4.shadow {
