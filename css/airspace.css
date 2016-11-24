@@ -15,6 +15,11 @@
 	Common Css
 --*/
 
+h4.shadow {
+    text-shadow: 0 0 3px grey, 0 0 5px grey;
+}
+
+
 
 hr.style13 {
 	border-top: 10px solid #000000;
