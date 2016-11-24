@@ -17,7 +17,7 @@
 
 hr.style14 { 
   border: 0; 
-  height: 5px; 
+  height: 10px; 
   background-image: -webkit-linear-gradient(left, #f0f0f0, #000000, #f0f0f0);
   background-image: -moz-linear-gradient(left, #f0f0f0, #000000, #f0f0f0);
   background-image: -ms-linear-gradient(left, #f0f0f0, #000000, #f0f0f0);
