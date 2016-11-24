@@ -15,9 +15,11 @@
 	Common Css
 --*/
 
+section.background{
+ background-color: #f4f4f4;
+}
 
-
-h4.background.container.col-md-12.shadow {
+h4.shadow {
     text-shadow: 0 0 5px white, 0 0 5px #887c7c;
 }
 
@@ -98,9 +100,7 @@ display: inline;
  
 
 
-section.background{
- background-color: #f4f4f4;
-}
+
 
 
 
