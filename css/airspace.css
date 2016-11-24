@@ -15,9 +15,15 @@
 	Common Css
 --*/
 
-.style14 { 
-  border: 0; 
-  height: 5px; 
+
+
+h4.shadow {
+    text-shadow: 0 0 5px white, 0 0 5px #887c7c;
+}
+
+hr.style14 {
+    border: 0; 
+  height: 1px; 
   background-image: -webkit-linear-gradient(left, #f0f0f0,#4a4556, #f0f0f0);
   background-image: -moz-linear-gradient(left, #f0f0f0, #4a4556, #f0f0f0);
   background-image: -ms-linear-gradient(left, #f0f0f0, #4a4556, #f0f0f0);
@@ -25,13 +31,6 @@
   z-index:1;
  
 }
-
-
-
-.shadow {
-    text-shadow: 0 0 10px grey, 0 0 15px grey;
-}
-
 
 
 
