@@ -17,7 +17,7 @@
 
 
 
-h4.shadow {
+h4.background.container.col-md-12.shadow {
     text-shadow: 0 0 5px white, 0 0 5px #887c7c;
 }
 
