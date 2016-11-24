@@ -15,7 +15,7 @@
 	Common Css
 --*/
 
-hr.style14 { 
+.style14 { 
   border: 0; 
   height: 5px; 
   background-image: -webkit-linear-gradient(left, #f0f0f0,#4a4556, #f0f0f0);
@@ -28,7 +28,7 @@ hr.style14 {
 
 
 
-h4.shadow {
+.shadow {
     text-shadow: 0 0 10px grey, 0 0 15px grey;
 }
 
