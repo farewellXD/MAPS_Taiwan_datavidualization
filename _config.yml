@@ -26,7 +26,7 @@ cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
 # Build settings
-baseurl: /MAPS_Taiwan_datavidualization/
+baseurl: /MAPS_Taiwan/
 markdown: kramdown
 
 # Google analytics
